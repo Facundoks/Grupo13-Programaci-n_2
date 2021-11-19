@@ -1,2 +1,0 @@
-class UsuarioExistente(Exception):
-    pass
